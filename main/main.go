@@ -9,5 +9,6 @@ func main() {
 	//base.TestVals()
 	//base.TestVariadicFunctions()
 	//base.TestClosures()
-	base.TestRecursion()
+	//base.TestRecursion()
+	base.TestPointers()
 }
