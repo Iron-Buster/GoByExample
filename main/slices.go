@@ -45,4 +45,4 @@ func slices() {
 	fmt.Println("2d: ", twoD)
 }
 
-func main() { slices() }
+//func main() { slices() }
