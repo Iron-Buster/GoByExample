@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	base.Vals()
+	base.TestVals()
 }
