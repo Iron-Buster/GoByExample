@@ -6,5 +6,7 @@ import (
 )
 
 func main() {
-	base.TestVals()
+	//base.TestVals()
+	//base.TestVariadicFunctions()
+	base.TestClosures()
 }
