@@ -8,5 +8,6 @@ import (
 func main() {
 	//base.TestVals()
 	//base.TestVariadicFunctions()
-	base.TestClosures()
+	//base.TestClosures()
+	base.TestRecursion()
 }
