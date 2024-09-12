@@ -3,7 +3,7 @@ package base
 import "fmt"
 
 // 切片
-func slices() {
+func Slices() {
 
 	s := make([]string, 3)
 	fmt.Println("emp: ", s)

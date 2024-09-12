@@ -2,7 +2,7 @@ package base
 
 import "fmt"
 
-func arrays() {
+func Arrays() {
 
 	var a [5]int
 	fmt.Println("emp", a)

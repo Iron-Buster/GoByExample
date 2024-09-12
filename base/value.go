@@ -2,7 +2,7 @@ package base
 
 import "fmt"
 
-func _value() {
+func Value() {
 	fmt.Println("go" + "lang")
 
 	fmt.Println("1+1 =", 1+1)

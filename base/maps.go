@@ -2,7 +2,7 @@ package base
 
 import "fmt"
 
-func maps() {
+func Maps() {
 
 	m := make(map[string]int)
 

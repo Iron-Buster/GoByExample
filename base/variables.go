@@ -3,7 +3,7 @@ package base
 import "fmt"
 
 // 声明变量
-func variables() {
+func Variables() {
 	var a = "initial"
 	fmt.Println(a)
 

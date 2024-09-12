@@ -3,7 +3,7 @@ package base
 import "fmt"
 
 // range遍历
-func _range() {
+func Range() {
 
 	nums := []int{2, 3, 4}
 	sum := 0
